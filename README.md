@@ -1,5 +1,5 @@
 -  Hi, I’m @ElieObadia
--  I’m currently learning Data Science and Artificial Engineering at ESILV
+-  I’m a Data Science and Artificial Engineer
 -  You can contact me on LinkedIn : www.linkedin.com/in/elie-obadia
    or on my email adress : elieobadiapro@gmail.com
 -  You can find the project that I have worked on here and if you have any question I'm all ears
